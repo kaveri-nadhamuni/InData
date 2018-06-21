@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Indata
+I'm Kaveri Nadhamuni, founder of Indata. Indata is a collection of data analytics projects on the Indian education system I started in 9th grade. I've always been interested in the intersection of development issues and computer science. I'm trying to understand developmental issues in India using data analytics and visualisations.
 
-You can use the [editor on GitHub](https://github.com/kaveri-nadhamuni/InData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Karnataka School Performance
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I worked on 3 case studies based on the data of a million students who took the 10th standard state board examination in the state of Karnataka, India. 
+1. Do boys do better than girls?
+2. Does English help learn Science and Math better? 
+3. Do Govt. shcools do better than private?
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Social Determinants of Learning
+
+What makes students learn besides teachers and textbooks? Do their parents' education, TV viewing habits or library usage improve their learning levels? This is a study on social factors that impact learning
 
 ```markdown
 Syntax highlighted code block

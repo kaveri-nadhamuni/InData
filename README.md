@@ -1,16 +1,16 @@
 ## Welcome to Indata
-I'm Kaveri Nadhamuni, founder of Indata. Indata is a collection of data analytics projects on the Indian education system I started in 9th grade. I've always been interested in the intersection of development issues and computer science. I'm trying to understand developmental issues in India using data analytics and visualisations.
+Indata is a collection of short data analytics studies on the Indian education system. By analysing massive government education datasets, I uncovered interesting findings about the academic performance, school structure, and social determinants of hundreds of thousands of students across India. I also discovered some statistics and trends related to the operation of the schooling system. I used Python and its data anlytics and visualizations libraries to process and present the data, and wrote up explanations and further research of my findings. 
 
 ### Karnataka School Performance
 
-I worked on 3 case studies based on the data of a million students who took the 10th standard state board examination in the state of Karnataka, India. 
+3 case studies based on the data of a million students who took the 10th standard state board examination in the state of Karnataka, India. 
 1. Do boys do better than girls?
 2. Does English help learn Science and Math better? 
 3. Do Govt. shcools do better than private?
 
 
 ### Social Determinants of Learning
-
+![Some text](/images/Social-Factors-TV.jpg)
 What makes students learn besides teachers and textbooks? Do their parents' education, TV viewing habits or library usage improve their learning levels? This is a study on social factors that impact learning
 
 
